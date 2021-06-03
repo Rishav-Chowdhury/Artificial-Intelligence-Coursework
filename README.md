@@ -17,5 +17,5 @@ Programs from my Artificial Intelligence Course, during my sixth semester at SRM
     * Using A* Algorithm
  * Lab 6: Simulation of Tic-Tac-Toe using Min-Max Algorithm
  * Lab 7: Unification and Resolution
- * Lab 8: Simulation of Monte Hall Problem
+ * Lab 8: Simulation of Monty Hall Problem
  * Lab 9: Simulation of Block World Problem
